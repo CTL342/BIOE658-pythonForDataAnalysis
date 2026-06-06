@@ -1,0 +1,21 @@
+team	win/loose
+Manchester City	win
+Manchester United	win
+Leicester City	win
+Chelsea	win
+West Ham United	win
+Liverpool	win
+Everton	win
+Aston Villa	tie
+Tottenham Hotspur	loose
+Arsenal	loose
+Leeds United	loose
+Wolverhampton Wanderers	loose
+Southampton	loose
+Crystal Palace	loose
+Burnley	loose
+Brighton & Hove Albion	loose
+Newcastle United	loose
+Fulham	loose
+West Bromwich Albion	tie
+Sheffield United	win

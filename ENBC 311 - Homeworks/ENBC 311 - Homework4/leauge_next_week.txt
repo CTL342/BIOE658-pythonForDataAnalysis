@@ -1,0 +1,21 @@
+Teams	Pts
+Manchester City: 59
+Manchester United: 49
+Leicester City: 49
+Chelsea: 45
+West Ham United: 45
+Liverpool: 43
+Everton: 40
+Aston Villa: 37
+Tottenham Hotspur: 36
+Arsenal: 34
+Leeds United: 32
+Wolverhampton Wanderers: 30
+Southampton: 29
+Crystal Palace: 29
+Burnley: 27
+Brighton & Hove Albion: 26
+Newcastle United: 25
+Fulham: 19
+West Bromwich Albion: 14
+Sheffield United: 14
